@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1077719129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a67f7b914ab5ebec887ef255798f9bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Scene/Scenes/Opening_Sequence_Cut.unity
+Dependencies: []

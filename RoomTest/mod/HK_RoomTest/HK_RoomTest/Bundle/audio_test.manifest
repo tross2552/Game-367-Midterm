@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3024322402
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46926ed5196b2b5464048308b9e1727c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/AudioClips/quaint_8-004.wav
+- Assets/AudioClips/crawler_crawl.wav
+- Assets/AudioClips/quaint_4.wav
+- Assets/AudioClips/spitter_startle3.wav
+- Assets/AudioClips/crawler_crawl (2).wav
+- Assets/AudioClips/player_take_damage.wav
+- Assets/AudioClips/bonk.wav
+- Assets/AudioClips/fast_woosh.wav
+- Assets/AudioClips/buzzer_fly.wav
+- Assets/AudioClips/running_in_cave.wav
+- Assets/AudioClips/hard_landing_1.wav
+- Assets/AudioClips/running_in_cave_1.wav
+- Assets/AudioClips/grass.wav
+- Assets/AudioClips/nail_reject3.wav
+- Assets/AudioClips/title.wav
+- Assets/AudioClips/Focus Start.wav
+- Assets/AudioClips/hard_landing.wav
+- Assets/AudioClips/soft_landing.wav
+- Assets/AudioClips/georock_hit-002.wav
+- Assets/AudioClips/AC_Title.wav
+- Assets/AudioClips/woosh.wav
+- Assets/AudioClips/Focus Heal 2.0.wav
+- Assets/AudioClips/Georock_Hit.wav
+- Assets/AudioClips/corpse_splat.wav
+- Assets/AudioClips/nail_slash.wav
+- Assets/AudioClips/light_bonk.wav
+- Assets/AudioClips/menu_sound.wav
+- Assets/AudioClips/The Haunt.wav
+- Assets/AudioClips/geo_collect.wav
+- Assets/AudioClips/nail_slash-002.wav
+- Assets/AudioClips/enemy_damage.wav
+Dependencies: []

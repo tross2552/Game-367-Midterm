@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3187493633
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4752ea57df053c9852dd1ca640d01aae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/AudioClips/ac_test.wav
+Dependencies: []

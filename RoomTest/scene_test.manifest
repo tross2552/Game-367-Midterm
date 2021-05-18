@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 878631326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60453bbc8b26bbae962489a9f7b053c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Scenes/NewRoomTest.unity
+Dependencies: []
